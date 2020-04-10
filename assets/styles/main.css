@@ -1,0 +1,20 @@
+html {
+    font-size: 35px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+aside {
+    width: 12em;
+    height: 27em;
+    background-color: lightblue;
+}
+
+.avatar img {
+    margin-left: 2.5em;
+    margin-top: 2em;
+    border-radius: 50%;
+}
