@@ -1,20 +1,32 @@
-html {
-    font-size: 35px;
+body { 
+    text-align: center; 
+    margin-left: 15em; 
+    padding: 150px; 
+    background-color: black; 
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    background-color: white;
-}
-aside {
-    width: 12em;
-    height: 27em;
-    background-color: lightblue;
+h1 { 
+    font-size: 50px; 
+    color: white;
 }
 
-.avatar img {
-    margin-left: 2.5em;
-    margin-top: 2em;
-    border-radius: 50%;
+p {
+    color: white;
+}
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+body { 
+    font: 20px Helvetica, sans-serif; 
+}
+
+article { 
+    display: block; 
+    text-align: left; 
+    width: 650px; 
+    margin: 0 auto; 
 }
